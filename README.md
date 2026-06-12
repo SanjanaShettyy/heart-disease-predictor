@@ -2,6 +2,10 @@
 
 Interactive machine learning web app to estimate heart disease risk.
 
+## 🌐 Live Demo
+
+[Open App](https://heart-disease-predictor-xj4vroypjlxl8ue2owes3w.streamlit.app/)
+
 ## Features
 - KNN-based prediction
 - Confidence score
@@ -9,7 +13,7 @@ Interactive machine learning web app to estimate heart disease risk.
 - Responsive layout
 
 ## Tech Stack
-- Pythongi
+- Python
 - Streamlit
 - Scikit-learn
 - Pandas
